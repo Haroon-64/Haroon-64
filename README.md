@@ -5,7 +5,7 @@
 
 - I’m currently working on Deep Learning Stuff [Recent Projects :](https://github.com/Haroon-64/Animal_detection)
 
--  I’m currently learning **Machine Learning And Deep Learning Specializations by Andrew Ng**
+-  I’m currently learning **Deep Learning Specializations by Andrew Ng**
 
 - How to reach me **https://www.linkedin.com/in/haroon-naseer-6a44a6240**
 

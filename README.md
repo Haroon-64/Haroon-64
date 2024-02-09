@@ -7,10 +7,10 @@
 
 -  I’m currently learning **Deep Learning Specializations by Andrew Ng**
 
-- How to reach me **https://www.linkedin.com/in/haroon-naseer-6a44a6240**
+- How to reach me:
 
 <p align="left">
-<a href="https://linkedin.com/in/haroon naseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon naseer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haroon-naseer-6a44a6240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon naseer" height="30" width="40" /></a>
 <a href="https://kaggle.com/haroon222221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haroon222221" height="30" width="40" /></a>
 </p>
 

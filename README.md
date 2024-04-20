@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Haroon</h1>
-<h3 align="center">A Machine Learning Developer</h3>
+<h3 align="center"> Machine Learning Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroon-64&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-64" /> </p>
 
-- I’m currently working on Deep Learning Stuff [Recent Projects :](https://github.com/Haroon-64/Animal_detection)
+- I’m currently working on Deep Learning Stuff
+-  [Recent Project :](https://github.com/Haroon-64/Animal_detection)
 
 -  I’m currently learning **Deep Learning Specializations by Andrew Ng**
 

@@ -6,7 +6,7 @@
 - I’m currently working on understanding papers
 -  Recent Project :[Animal Detection](https://github.com/Haroon-64/Animal_detection)
 
--  I’m currently learning **Pytorch - Sequence And Generational models**
+-  I’m currently learning **Sequence And Generational models**
 
 - How to reach me:
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroon-64&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-64" /> </p>
 
-- I’m currently working on understanding papers
+- I’m currently working on [AutoPipeline](https://github.com/Haroon-64/AutoPipeline)
 -  Recent Project :[Animal Detection](https://github.com/Haroon-64/Animal_detection)
 
 -  I’m currently learning **Ethical and explainable AI**

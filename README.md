@@ -5,8 +5,8 @@
 
 - I’m currently working on [AutoPipeline](https://github.com/Haroon-64/AutoPipeline)
 -  Recent Projects
-   - 1 [Animal Detection](https://github.com/Haroon-64/Animal_detection)
-   - 2 [Image Classification Trainer UI](https://github.com/Haroon-64/Image_Classifier_Trainer)
+   -  [Animal Detection](https://github.com/Haroon-64/Animal_detection)
+   -  [Image Classification Trainer UI](https://github.com/Haroon-64/Image_Classifier_Trainer)
 
 -  I’m currently learning **Ethical and explainable AI** & **Revisiting Fundamentals**
 
